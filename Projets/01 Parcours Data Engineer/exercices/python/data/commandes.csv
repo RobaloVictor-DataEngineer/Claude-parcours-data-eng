@@ -1,0 +1,25 @@
+id_commande,date,client,categorie,produit,quantite,prix_unitaire,ville
+C001,2026-01-05,Durand,Informatique,Ordinateur portable,1,899.00,Rouen
+C002,2026-01-07,Lefevre,Bureautique,Ramette papier A4,10,4.50,Caen
+C003,2026-01-09,Moreau,Informatique,Clavier mécanique,2,79.90,Le Havre
+C004,2026-01-12,Durand,Accessoires,Souris sans fil,3,24.90,Rouen
+C005,2026-01-15,Petit,Mobilier,Chaise de bureau,1,189.00,Paris
+C006,2026-01-18,Garnier,Informatique,Écran 27 pouces,2,229.00,Lille
+C007,2026-01-20,Moreau,Bureautique,Stylos (lot de 50),5,12.00,Le Havre
+C008,2026-01-22,Lefevre,Informatique,Disque SSD 1To,4,89.90,Caen
+C009,2026-01-25,Petit,Mobilier,Bureau réglable,1,349.00,Paris
+C010,2026-01-28,Roussel,Accessoires,Casque audio,2,59.90,Nantes
+C011,2026-02-02,Durand,Informatique,Clavier sans fil,1,45.00,Rouen
+C012,2026-02-04,Garnier,Mobilier,Caisson à tiroirs,2,119.00,Lille
+C013,2026-02-06,Moreau,Informatique,Ordinateur portable,1,1099.00,Le Havre
+C014,2026-02-09,Roussel,Bureautique,Classeurs (lot de 10),6,8.50,Nantes
+C015,2026-02-11,Petit,Accessoires,Tapis de souris,4,9.90,Paris
+C016,2026-02-14,Lefevre,Informatique,Écran 24 pouces,3,149.00,Caen
+C017,2026-02-16,Garnier,Mobilier,Chaise de bureau,2,189.00,Lille
+C018,2026-02-19,Durand,Informatique,Webcam HD,1,69.90,Rouen
+C019,2026-02-21,Roussel,Informatique,Clavier mécanique,1,79.90,Nantes
+C020,2026-02-24,Moreau,Accessoires,Câble HDMI,5,11.90,Le Havre
+C021,2026-02-26,Petit,Informatique,Station d'accueil USB-C,2,159.00,Paris
+C022,2026-03-01,Garnier,Bureautique,Agrafeuse,3,14.90,Lille
+C023,2026-03-03,Lefevre,Mobilier,Lampe de bureau LED,2,39.90,Caen
+C024,2026-03-05,Durand,Informatique,Ordinateur portable,2,949.00,Rouen
