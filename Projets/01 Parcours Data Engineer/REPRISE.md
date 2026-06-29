@@ -8,9 +8,10 @@
 
 ## Point d'étape rapide
 
-- **Semaine en cours :** fin de la **Semaine 1** (Phase 0 · Fondations & setup).
-- **Statut :** Semaine 1 **terminée** côté contenu.
-- **Prochaine étape :** démarrer la **Semaine 2** (pandas + SQL intermédiaire).
+- **Semaine en cours :** **Semaine 2** (Phase 1 · Pandas & SQL intermédiaire) — **démarrée le 29/06**.
+- **Statut :** Semaine 1 **terminée** (clôturée dans le planning). Semaine 2 **en cours**.
+- **Fait en S2 :** fiche pandas fondamentaux + notebook d'exercice `s2_1` créés (à faire par moi).
+- **Prochaine étape côté Victor :** faire les 9 exercices de `s2_1_pandas_fondamentaux.ipynb`, puis session SQL (sous-requêtes, alias, JOINs multiples).
 
 ---
 
@@ -42,9 +43,10 @@ lecture CSV avec le module `csv` (`DictReader`), fonctions, comprehensions.
 
 ## À vérifier avant de continuer
 
-- [ ] Le `lire_csv.ipynb` final est bien **commité + poussé** sur GitHub
-      (commit « S1 : livrable script CSV »).
-- [ ] Onglet **Planning** de `Planning_Data_Engineer.xlsx` : passer **S1 en « Terminé »**.
+- [x] Le `lire_csv.ipynb` final est bien **commité + poussé** sur GitHub (commit `77494c1` « S1 : livrable script CSV », branche à jour avec origin/main).
+- [x] Onglet **Planning** de `Planning_Data_Engineer.xlsx` : **S1 passé en « Terminé »**, S2 en « En cours ».
+- [ ] **À committer vendredi** (convention hebdo) : fiche `cours/semaine-02/01_python_pandas_fondamentaux.md`, `exercices/python/data/villes.csv`, `exercices/python/s2_1_pandas_fondamentaux.ipynb` + le planning à jour.
+- [ ] Note : ~44 fichiers apparaissent « modifiés » dans git mais c'est uniquement un changement de fins de ligne (CRLF) après checkout sur un autre PC — pas de contenu modifié. Ne pas committer ce bruit (envisager un `.gitattributes`).
 
 ---
 
